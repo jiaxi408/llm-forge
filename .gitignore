@@ -1,0 +1,9 @@
+**/__pycache__/
+
+/node_modules/
+/lmdeploy/lib/*.so
+/dataset/
+/out/
+/Shanghai_AI_Laboratory/
+/Yuanmeng_Models/
+/notebook.ipynb
